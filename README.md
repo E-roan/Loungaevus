@@ -12,8 +12,6 @@
             position: absolute;
             z-index: -1;
             filter: blur(0px);
-            left: 500px;
-            top: 00px;
             width: 30%;
             height: auto;
         }
