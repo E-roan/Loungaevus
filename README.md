@@ -32,7 +32,6 @@
             position: relative;
             top: 70px;
             left: -400px;
-
         }
         .subtitle {
             font-size: 1.5em;
@@ -40,7 +39,6 @@
             margin-top: 10px;
         }
         .description {
-            
             font-size: 1.2em;
             margin: 20px 10%;
         }
@@ -75,19 +73,16 @@
     <img src="logo.png" id="bo" >
     <div style="height: 100px;"></div>
     <div class="subtitle">Az új otthon, ahol az élet kivirágzik</div>
-    
     <div class="description">
         A Longaevus egy különleges, nyugdíjasok számára kialakított lakópark, amely az elmagányosodás helyett a közösség erejét nyújtja.
         Itt minden adott a teljes gondtalan élethez:
     </div>
     <div class="features">
-        
         <div class="feature-bubble"><p>Esztétikai szolgáltatások</p></div>
         <div class="feature-bubble"><p>Gyógytorna</p></div>
         <div class="feature-bubble"><p>Orvosi ellátás</p></div>
         <div class="feature-bubble"><p>Mozgási lehetőség</p></div>
         <div class="feature-bubble"><p>Segítőkész munkatársak</p></div>
-        
     </div>
     <div class="footer-text">
         NEM CSUPÁN LAKÓHELY - EGY OTTHON, AHOL AZ ÉLETMINŐSÉG ÉS A KÖZÖSSÉG AZ ELSŐ
