@@ -12,7 +12,7 @@
             position: absolute;
             z-index: -1;
             filter: blur(0px);
-            width: 30%;
+            width: 15%;
             height: auto;
         }
         body {
